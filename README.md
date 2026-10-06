@@ -4,7 +4,7 @@ Evidence-first digital risk protection for social and app ecosystems.
 
 ## Live website
 
-**[Open the published RiskShield website](https://riskshield-hlnuvdk2.manus.space)**
+**[Open the published RiskShield website](https://dharaneesh21092006-max.github.io/riskshield/)**
 
 ## Included
 
