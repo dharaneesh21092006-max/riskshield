@@ -1,0 +1,10 @@
+{
+  "name": "riskshield",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RiskShield digital risk protection prototype",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html app.js styles.css manus-routes.json dist/ && cp -f app.config.ts dist/app.config.ts 2>/dev/null || true",
+    "start": "python3 -m http.server 3000 --bind 0.0.0.0"
+  }
+}
